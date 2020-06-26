@@ -9,6 +9,7 @@ _**Warning:** This ~article~ `readme` is mutatis mutandis, it's always evolving 
 WPF (Windows Presentation Foundation) was created in 2006 as an extensible graphical subsystem for rendering GUIs in Windows -based apps, it was released as part of .NET Framework 3.0.
 Using DirectX as a way for rendering advanced graphics for line-of-bussiness applications differently than that was provided by the old graphical subsystems User32 and GDI/GDI+.
 Since we are in 2020 and .NET Core as the current state and the future of .NET I will concentrate this list in the use of WPF with .NET Core.
+
 Below you can check a list of WPF Resources:
 
 ### Tools
