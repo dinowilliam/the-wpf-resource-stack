@@ -29,7 +29,8 @@ Below you can check a list of WPF Resources:
 ### Materials
 - [Dragablz](https://github.com/ButchersBoy/Dragablz)  -  Tearable tab control for WPF, which includes docking, tool windows and MDI
 - [MahApps.Metro](https://github.com/MahApps/MahApps.Metro)  -  A toolkit for creating modern WPF applications
-- [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit http://materialdesigninxaml.net/home)  -  A Comprehensive and easy to use Material Design theme and control library for WPF that is compatible with MahApps and Dragablz
+- [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) 
+- [Material Design In XAML Toolkit](http://materialdesigninxaml.net/home)  -  A Comprehensive and easy to use Material Design theme and control library for WPF that is compatible with MahApps and Dragablz
 
 ### Components
 - [Syncfusion UI Controls](https://www.syncfusion.com/wpf-ui-controls) - A paid collection of WPF controls that are developed by Syncfusion
