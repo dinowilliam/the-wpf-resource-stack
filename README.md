@@ -1,8 +1,8 @@
 # The WPF Resource Stack
 
-A WPF screen using DevExpress componentsA List of resources to be used with WPF!
+## A List of resources to be used with WPF!
 
-Disclaimer: This article is mutatis mutandis, it's always evolving and can be altered at any time.
+_**Disclaimer:** This ~article~ `readme` is mutatis mutandis, it's always evolving and can be altered at any time._
 
 WPF (Windows Presentation Foundation) was created in 2006 as an extensible graphical subsystem for rendering GUIs in Windows -based apps, it was released as part of .NET Framework 3.0.
 Using DirectX as a way for rendering advanced graphics for line-of-bussiness applications differently than that was provided by the old graphical subsystems User32 and GDI/GDI+.
