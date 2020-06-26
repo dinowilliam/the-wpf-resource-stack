@@ -1,5 +1,7 @@
 # The WPF Resource Stack
 
+![Imgur](https://i.imgur.com/rJhV6Ld.png)
+
 ## A List of resources to be used with WPF!
 
 _**Disclaimer:** This ~article~ `readme` is mutatis mutandis, it's always evolving and can be altered at any time._
